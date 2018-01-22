@@ -1,3 +1,4 @@
+"use strict";
 function addition(value) {
     console.log("Value is: " + value);
 }
